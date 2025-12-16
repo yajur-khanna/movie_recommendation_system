@@ -82,12 +82,15 @@ Cosine similarity is chosen because it:
 
 ## Project Structure
 
+## 📁 Project Structure
+
+```text
 movie-recommender/
-├── movie_recommender.ipynb # End-to-end recommendation pipeline
-├── README.md # Project documentation
-├── data/ # Movie metadata (if included)
-├── models/ # Saved vectorizers / similarity matrices (optional)
-└── outputs/ # Recommendation samples or analysis
+├── movie_recommender.ipynb   # End-to-end recommendation pipeline
+├── README.md                 # Project documentation
+├── data/                     # Movie metadata (if included)
+├── models/                   # Saved vectorizers / similarity matrices (optional)
+└── outputs/                  # Recommendation samples or analysis
 
 
 ---
