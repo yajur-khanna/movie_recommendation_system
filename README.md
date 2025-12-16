@@ -97,4 +97,4 @@ movie-recommender/
 
 ## Example Usage
 
-
+![Movie Recommendation Example](example_usage.png)
