@@ -87,10 +87,10 @@ Cosine similarity is chosen because it:
 
 ```md
 movie-recommender/
-├── movie_recommender.ipynb   # Feature engineering, similarity computation, recommendations
-├── data/                     # Raw and cleaned movie metadata
-├── models/                   # Vectorizers and similarity artifacts
-└── outputs/                  # Evaluation and recommendation samples
+├── movie_recommender.ipynb   # Core recommendation logic and experimentation
+├── ML model                  # Trained / exploratory ML notebook
+├── app.py                    # Application layer for running the recommender
+└── README.md                 # Project documentation
 ```
 
 ---
