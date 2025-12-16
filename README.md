@@ -90,8 +90,7 @@ movie-recommender/
 ├── README.md                 # Project documentation
 ├── data/                     # Movie metadata (if included)
 ├── models/                   # Saved vectorizers / similarity matrices (optional)
-└── outputs/                  # Recommendation samples or analysis
-
+└── outputs/                  # Recommendation samples or analysis```
 
 ---
 
