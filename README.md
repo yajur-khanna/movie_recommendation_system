@@ -86,7 +86,7 @@ Cosine similarity is chosen because it:
 ---
 
 ```md
-## Project Structure
+## 📁 Project Structure
 
 ```text
 movie-recommender/
